@@ -1,7 +1,7 @@
 {
   "name": "eyp-noop",
   "version": "9.9.9",
-  "author": "eyp",
+  "author": "Jordi Prats",
   "summary": "does nothing, John Snow",
   "license": "Apache-2.0",
   "source": "",
